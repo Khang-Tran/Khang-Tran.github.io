@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.52220d1f.css",
   "main.css.map": "static/css/main.52220d1f.css.map",
-  "main.js": "static/js/main.2c1fddaa.js",
-  "main.js.map": "static/js/main.2c1fddaa.js.map",
+  "main.js": "static/js/main.01a723f8.js",
+  "main.js.map": "static/js/main.01a723f8.js.map",
   "static\\media\\background.jpg": "static/media/background.875637d6.jpg",
   "static\\media\\flags.png": "static/media/flags.9c74e172.png",
   "static\\media\\iShop.png": "static/media/iShop.d735e073.png",
@@ -13,6 +13,5 @@
   "static\\media\\icons.woff2": "static/media/icons.27c88389.woff2",
   "static\\media\\logo.png": "static/media/logo.ae5bc5dc.png",
   "static\\media\\musicLovers.png": "static/media/musicLovers.c2f11724.png",
-  "static\\media\\oShop.png": "static/media/oShop.b5b1484b.png",
-  "static\\media\\resume.pdf": "static/media/resume.a8028b86.pdf"
+  "static\\media\\oShop.png": "static/media/oShop.b5b1484b.png"
 }
